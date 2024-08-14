@@ -7,4 +7,5 @@
 ```
 Marten.Exceptions.MartenCommandException: Marten Command Failure:
 3D000: database "db_1" does not exist
----> Npgsql.PostgresException (0x80004005): 3D000: database "db_1" does not exist```
+---> Npgsql.PostgresException (0x80004005): 3D000: database "db_1" does not exist
+```
